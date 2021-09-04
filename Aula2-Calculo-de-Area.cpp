@@ -3,7 +3,7 @@
 using namespace std;
 float calculoDeArea (float, float, float);
 
-int main(){
+int main(void){
 	
 	setlocale(LC_ALL,"Portuguese");
 	int l,c,a;
