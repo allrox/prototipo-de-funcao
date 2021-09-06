@@ -6,9 +6,9 @@
 #include <locale.h>
 using namespace std;
 
-int tamanhoVetor, elemento, i=0, soma, total;
-
 int main(){
+
+	int tamanhoVetor, elemento, i=0, soma, total;
 	
 	setlocale(LC_ALL,"Portuguese");
 	
